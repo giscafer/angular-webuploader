@@ -1,0 +1,25 @@
+{
+  "name": "angular-webuploader",
+  "version": "0.5.0",
+  "description": "angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情；",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giscafer/angular-webuploader.git"
+  },
+  "keywords": [
+    "angular-webuploader",
+    "angular-file-upload",
+    "fileupload",
+    "webuploader"
+  ],
+  "author": "giscafer <giscafer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giscafer/angular-webuploader/issues"
+  },
+  "homepage": "https://github.com/giscafer/angular-webuploader#readme"
+}
