@@ -78,7 +78,8 @@
 
                     var fileList = [];
                     var errors = [];
-
+                     // // 添加的文件数量
+                    var fileCount = 0;
                     function init_uploader() {
                         $(_winEl).html(buildFormHtml());
                         // $rootScope.$compile($(_winEl))($rootScope);
@@ -110,6 +111,7 @@
                     }
 
                     function init_app() {
+                            fileCount=0;
                             var $wrap = $('#uploader'),
 
                             // 图片容器
@@ -130,8 +132,8 @@
 
                             $progress = $statusBar.find('.progress').hide(),
 
-                            // 添加的文件数量
-                            fileCount = 0,
+                            // // 添加的文件数量
+                            // fileCount = 0,
 
                             // 添加的文件总大小
                             fileSize = 0,
