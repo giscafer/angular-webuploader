@@ -1,5 +1,7 @@
 # angular-webuploader
 
+[webuploader](http://fex.baidu.com/webuploader) It's a new file uploader solution!
+
 angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情；
 
 ## ScreenShot
@@ -29,4 +31,4 @@ angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列
 
 > [giscafer.com](http://giscafer.com) &nbsp;&middot;&nbsp;
 > GitHub [@giscafer](https://github.com/giscafer) &nbsp;&middot;&nbsp;
-> Weibo [@giscafer](https://weibo.com/laohoubin)
+> Weibo [@Nickbing Lao](https://weibo.com/laohoubin)
