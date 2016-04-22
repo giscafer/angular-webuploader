@@ -23,5 +23,10 @@ angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列
 ```
 
 ## License
+![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-MIT by [giscafer](http://github.com/giscafer)
+---
+
+> [giscafer.com](http://giscafer.com) &nbsp;&middot;&nbsp;
+> GitHub [@giscafer](https://github.com/giscafer) &nbsp;&middot;&nbsp;
+> Weibo [@giscafer](https://weibo.com/laohoubin)
