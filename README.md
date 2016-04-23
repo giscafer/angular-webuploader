@@ -19,7 +19,11 @@ angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列
 
 ```javascript
 	
-	{"status":true,"newName":"/test/temp/upload/picture/20160422/c0c0b8f7bc574ec88f891ff834b79bab.jpg","thumbName":"/test/temp/upload/picture/20160422/thumb/c0c0b8f7bc574ec88f891ff834b79bab.jpg"}
+	{
+		"status":true,//上传成功状态
+		"newName":"/test/temp/upload/picture/20160422/c0c0b8f7bc574ec88f891ff834b79bab.jpg",//原图片路径
+		"thumbName":"/test/temp/upload/picture/20160422/thumb/c0c0b8f7bc574ec88f891ff834b79bab.jpg"//缩略图路径
+	}
 
 
 ```
