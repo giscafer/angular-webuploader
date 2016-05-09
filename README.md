@@ -2,7 +2,7 @@
 
 [webuploader](http://fex.baidu.com/webuploader) It's a new file uploader solution!
 
-angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情；
+本项目是使用angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情；
 
 ## ScreenShot
 
