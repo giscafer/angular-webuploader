@@ -4,6 +4,9 @@
 
 本项目是使用angular指令封装的webuploader demo，弹窗上传图片，缩略图展示列表，翻页效果；支持点击缩略图查看大图详情；
 
+
+- easyui版本 —— [easyui-webuploader](https://github.com/giscafer/easyui-webuploader)
+
 ## ScreenShot
 
 ![screenshot0](https://raw.githubusercontent.com/giscafer/angular-webuploader/master/images/screenshot.png)
