@@ -17,7 +17,7 @@
 
 ## Usage
 
-本demo没有给出java后台代码，后台代码也简单，一个文件读写+图片压缩，返回结果参考以下`json`格式；
+本demo没有给出java后台代码（后台代码参考[easyui-webuploader](https://github.com/giscafer/easyui-webuploader)版本），后台代码也简单，一个文件读写+图片压缩，返回结果参考以下`json`格式；
 然后将图片上传接口请求地址在`app.js`配置后即可。
 
 ```javascript
