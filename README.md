@@ -31,6 +31,24 @@
 
 ```
 
+## Feature
+
+支持属性：
+
+```js
+	//控件可配置属性
+	var fileNumLimit = attrs.filenumlimit ? attrs.filenumlimit : 10;//默认10张
+	var fileSizeLimit = attrs.filesizelimit ? attrs.filesizelimit : 200 * 1024 * 1024; // 200 M
+	var fileSingleSizeLimit = attrs.filesinglesizelimit ? attrs.filesinglesizelimit : 50 * 1024 * 1024; // 50 M
+	var btnlabel = attrs.btnlabel ? attrs.btnlabel : "图片上传"; //按钮文字
+	var viewType = attrs.viewType ? attrs.viewType : 'list'; //图片展示方式，计划分两种，一种是list，一种是album（后期扩展）
+	var downloadUrl = window.baseUrl + '/upload';
+	var uploadUrl = window.baseUrl + '/upload';
+	var readonly = attrs.readonly ? attrs.readonly : false; //是否只读，只读下不能上传照片和删除
+
+```
+
+
 ## License
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
